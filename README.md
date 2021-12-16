@@ -30,7 +30,7 @@ Vše naleznete v příslušních podsložkách dle doporučeného studijního pl
 Každému doporučuji naučit se práci s GITem, v praxi se to může dost hodit (jak pro OneMan projekty tak pro velké týmové projekty). Každá vaše změna v kódu bude zaznamenaná a dohledatelná na vašem lokálním PC, kde si GIT nainstalujete. Co uznáte za dokončené pošlete na GitHUB, aby to měli k dospozici všichni. Před začátkem práce PULLnete z GitHUBu abyste měli aktuální verzi i se změnami, které mohl přidat někdo jiný.  
 
 **Celem slušný tutoriál jak na GIT**  
-[![CoreySchaferGIT](https://img.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx/0.jpg)](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx "Everything Is AWESOME")
 
 **Další informace budou postupně doplněny**
 
