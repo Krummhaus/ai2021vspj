@@ -26,6 +26,12 @@ Vše naleznete v příslušních podsložkách dle doporučeného studijního pl
   * Java -->	Programování v Javě (PJ-1) 	Ing. Marek Musil
   * PHP --> Webové technologie (WT-1) 	PaedDr. František Smrčka, Ph.D
     
+**GIT(version control system) & GitHUB (cloud-based remote repository)**  
+Každému doporučuji naučit se práci s GITem, v praxi se to může dost hodit (jak pro OneMan projekty tak pro velké týmové projekty). Každá vaše změna v kódu bude zaznamenaná a dohledatelná na vašem lokálním PC, kde si GIT nainstalujete. Co uznáte za dokončené pošlete na GitHUB, aby to měli k dospozici všichni. Před začátkem práce PULLnete z GitHUBu abyste měli aktuální verzi i se změnami, které mohl přidat někdo jiný.  
+
+**Celem slušný tutoriál jak na GIT**  
+[![CoreySchaferGIT](https://img.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx/0.jpg)](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+
 **Další informace budou postupně doplněny**
 
 Last edited 16.12.2021
