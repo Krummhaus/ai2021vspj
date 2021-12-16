@@ -26,8 +26,10 @@ Vše naleznete v příslušních podsložkách dle doporučeného studijního pl
   * Java -->	Programování v Javě (PJ-1) 	Ing. Marek Musil
   * PHP --> Webové technologie (WT-1) 	PaedDr. František Smrčka, Ph.D
     
-**GIT(version control system) & GitHUB (cloud-based remote repository)**  
-Každému doporučuji naučit se práci s GITem, v praxi se to může dost hodit (jak pro OneMan projekty tak pro velké týmové projekty). Každá vaše změna v kódu bude zaznamenaná a dohledatelná na vašem lokálním PC, kde si GIT nainstalujete. Co uznáte za dokončené pošlete na GitHUB, aby to měli k dospozici všichni. Před začátkem práce PULLnete z GitHUBu abyste měli aktuální verzi i se změnami, které mohl přidat někdo jiný.  
+**GIT(version control system) & GitHub (cloud-based remote repository)**  
+Každému doporučuji naučit se práci s **GIT**-em. V praxi se to může dost hodit (jak pro OneMan projekty tak pro velké týmové projekty). Každá vaše změna v kódu bude zaznamenaná a dohledatelná na vašem lokálním PC, kde si **GIT** nainstalujete. Co uznáte za dokončené pošlete na **GitHub**, aby to měli k dospozici všichni. Před začátkem práce **Pull**-nete z **GitHub**-u, abyste měli aktuální verzi i se změnami, které mohl přidat někdo jiný.  
+
+Pro začátek potřebujete mít na svém lokálním PC nainstalovaný program **GIT**. Potom budete potřebovat account na **GitHub**-u. Na lokálním PC v **GIT**-u nastavíte --global-settings na jmeno a email co jste si zadali na **GitHub**-u. A máte lokální **GIT** spojený s remote repozitory na **GitHub**-u.  
 
 **Celem slušný tutoriál jak na GIT**  
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx "Everything Is AWESOME")
