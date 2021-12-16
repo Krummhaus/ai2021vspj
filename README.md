@@ -9,7 +9,7 @@ Vše naleznete v příslušních podsložkách dle doporučeného studijního pl
 
 * **1_semestr**
   * C -->	Základy strukturovaného programování (ZSP-1) 	doc. Ing. Karel Richta, CSc.
-  * Html, CSS, JavaScrip, PHP -->	Tvorba internetových stránek (TIS-1)
+  * Js --> Html, CSS, JavaScrip, PHP 	Tvorba internetových stránek (TIS-1)
 
 * **2_semestr**
   * C++ --> Objektově orientované programování (OOP) 	doc. Ing. Karel Richta, CSc.
